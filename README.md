@@ -9,7 +9,7 @@ hi this is my first cs project
 <body>
     <table id="calculator">
         <tr>
-            <td colspan="4"><input type="text" id="display" readonly /></td>
+            <td>< colspan="4"><input type="text" id="display" readonly /></td>
         </tr>
         <tr>
             <td><input type="button" value="7" onclick="appendToDisplay('7')" /></td>
