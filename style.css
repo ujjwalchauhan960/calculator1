@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif; 
+}
+
+#calculator {
+  border-collapse: collapse; /* Collapse table borders into a single border */
+  margin: 20px auto; 
+}
+
+#calculator td {
+  border: 2px solid #ccc; /* Set a 2px solid border with a light gray color for each table cell */
+  padding: 10px; /* Add 10px of padding inside each table cell */
+}
+
+#display {
+  width: 100%; 
+  padding: 15px;
+  font-size: 20px; 
+}
+#calculator button {
+  border: none; /* Remove the default button border */
+  border-radius: 5px; /* Add rounded corners with a radius of 5px */
+  background-color: slateblue; /* Set the background color to slateblue */
+  color: white; /* Set the text color to white for better contrast */
+  padding: 10px 20px; 
+  font-family: inherit; 
+  font-size: 16px; 
+}
+#calculator button:hover {
+  background-color: #3879b0; 
+  cursor: pointer; 
+}
