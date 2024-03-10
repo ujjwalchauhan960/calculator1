@@ -8,6 +8,7 @@ function calculate() {
     document.getElementById('display').value = result;
 }
 
+
 function factorial() {
     var num = parseInt(document.getElementById('display').value);
     var result = 1;
