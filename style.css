@@ -1,6 +1,9 @@
 body {
   font-family: Arial, sans-serif; 
+  
 }
+
+
 
 #calculator {
   border-collapse: collapse; /* Collapse table borders into a single border */
