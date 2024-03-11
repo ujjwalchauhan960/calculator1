@@ -5,6 +5,7 @@ hi this is my first cs project
 <head>
     <title>Simple Calculator</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    
 </head>
 <body>
     <table id="calculator">
