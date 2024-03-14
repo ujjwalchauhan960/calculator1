@@ -1,8 +1,6 @@
 # calculator1
 hi this is my first cs project
-<!DOCTYPE html>
-<html>
-<head>
+<!DOCTYPE html><html><head>
     <title>Simple Calculator</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     
